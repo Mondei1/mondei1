@@ -12,6 +12,7 @@ My name is **Nicolas** and I would describe myself as a full-stack developer *(b
   - If you want to E-Mail me, just look at my commits to get my E-Mail address and here's my [GPG key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x9f041488a934cdb66335fc94d291cc27c9afc95b) *(I don't want to disclose my E-Mail directly because of spam bots)*
   - Telegram: [@mondei1](https://t.me/mondei1)
   - Discord: Mondei1#4339
+  - Mastodon: [@mondei1@mastodon.lol](https://mastodon.lol/@mondei1)
   - Threema: [53P48HNT](https://threema.id/53P48HNT)
 
 Hope this short summary could tell you a bit about me.
