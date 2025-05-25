@@ -15,6 +15,6 @@ My name is **Nicolas** and I would describe myself as a hobby full-stack develop
   - Mastodon: [@mondei1@tech.lgbt](https://tech.lgbt/@mondei1)
   - Bluesky: [mondei1.bsky.social](https://bsky.app/profile/mondei1.bsky.social)
   - Threema: [53P48HNT](https://threema.id/53P48HNT)
-- 🦎 My profile picture has been drawn by the very talented [sixfootant](https://twitter.com/sixfoot_ant/status/1923610036691140966) (her [Bluesky](https://bsky.app/profile/sixfoot-ant.bsky.social))
+- 🦎 My profile picture was drawn by the very talented [sixfootant](https://nitter.net/sixfoot_ant/status/1923610036691140966) (her [Bluesky](https://bsky.app/profile/sixfoot-ant.bsky.social))
 
 Hope this short summary could tell you a bit about me.
